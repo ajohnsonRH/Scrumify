@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Scrumify "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="description_text">This app was designed to quickly teach you the agile methodology Scrum and serve as a reference as you integrate Scrum into your development process.</string>
+    <string name="learn_button_text">Learn</string>
+    <string name="references_button_text">References</string>
+    <string name="title_activity_learn">Learn Scrum</string>
+    <string name="title_activity_references">Scrum References</string>
+    <string name="title_activity_basic_concepts">Basic Concepts</string>
+    <string name="sprint_planning">Sprint Planning</string>
+    <string name="basic_concepts_text">Basic Concepts</string>
+    <string name="overview_text_label">Overview</string>
+    <string name="purpose_text">The purpose of the agile process is to enhance performance, improve communication and deliver a final product that exceeds the client\'s expectations.</string>
+    <string name="everyday_button__text">What happens each day?</string>
+    <string name="how_its_done_button_text">How is it done?</string>
+    <string name="introduction_text">Click on OK and the tutorial will lead you through everything you need to know to get started with Scrum</string>
+    <string name="introduction_title_text">Ready to get started?</string>
+    <string name="ok_text">OK</string>
+    <string name="how_its_done_dialog_content">It happens ever so often that a team will spend six months developing a product, show the client and have the client say, \'This is not what I wanted.\'
+                         This is exactly the situation the Scrum process avoids. A team may consist of five to ten members. Ideally, one person would be designated to Scrum master to ensure the team follows
+                         best practice. There would also be someone designated as the product owner to be the voice of the customer. The product owner will select features and the team will vote on
+                         them and begin development. Development on those features lasts only two weeks and then the process is repeated.</string>
+    <string name="everyday_content_text">Each day the team comes together for a 15 minute or less meeting. In this meeting, each developer answers the following three questions: What did I work on? What am I going to work on today? Am I blocked by anyone or anything?
+      In doing so, each member provides a short thirty second update with all critical information. This meeting increases communication between members and allows for collaborative development to flourish. In the instance that a team member is blocked, team members can help get that team member unblocked.</string>
+    <string name="everyday_title_text">What happens everyday?</string>
+    <string name="got_it_text">GOT IT!</string>
+    <string name="how_its_done_title">How is it done?</string>
+    <string name="transparency_title_text">How to track productivity?</string>
+    <string name="transparency_content_text">Productivity is tracked every workday. Each stand up is a verbal update and time to verify that a team is being productive. As each feature is closed, the progress of the team can be tracked using the story number on each feature. Story numbers will be talked about in more depth in Sprint Planning. A burn down chart can be made of the total progress of a team using the total amount of story numbers completed in a given two week sprint. This is useful for a quick reference.</string>
+    <string name="code_management_title_text">What about Code Management?</string>
+    <string name="code_management_content_text">The process of Scrum leaves code management up to the team. Management strategies and guidelines provide different types of feedback and therefore can be useful to some teams but not others.  Whether it be code reviews or paired programming with strict guidelines, the technique is the choice of your team!</string>
+    <string name="client_meeting_button_text">Client Meetings</string>
+    <string name="title_activity_sprint_planning">SprintPlanningActivity</string>
+    <string name="title_activity_client_meetings">ClientMeetingsActivity</string>
+    <string name="when_does_it_start_text">When does it start?</string>
+    <string name="when_is_it_planned_text">Planning for the next sprint happens the day before the new sprint begins. The Product owner will speak to the customer and determine the customer\'s main interests. Together the product owner and team will elect features from the backlog for development. The sprint planning meeting will last about thirty minutes. In this meeting, the developers can vote on features and propose alternatives if the features selected conflict with each other. This ensures that all team members are on the same page and come to a mutual agreement on if the features are able to be developed in two weeks. If a feature is too large, it will be split into smaller tasks for development. Some of these tasks may roll over to development in another sprint.</string>
+    <string name="what_are_tasks">What defines a task?</string>
+    <string name="what_are_tasks_content">A task is defined by the team. Tasks can be described with user stories, conditions of satisfaction and story points. A user story, is a single desire of a user (ie. \'As a user, I want to be able to save my note\'). The conditions of satisfaction for this example could be the following: 1. The user sees a save button. 2. The user is able to successfully save a note. 3. The note is stored on local memory.</string>
+    <string name="importance_of_tasks">The importance of tasks is an important idea in Scrum. The combination of the desires of the customer, the logicality of developing those tasks together and the estimated amount of time a task will take defines the importance of those tasks. The product owner knows which features are of higher importance to the customer. The development team knows which tasks should be developed together and which should not. Where does the time estimate come from? Once the features are selected, each feature is broken up into a series of tasks. A team will get together and assign story points to each task.</string>
+    <string name="importance_of_tasks_title">How do we decide the importance of a task?</string>
+</resources>

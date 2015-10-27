@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.Green_style">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <!--<item name="android:alertDialogTheme">@style/DialogTheme</item>-->
+        <item name="android:colorPrimaryDark">@color/holo_light_primary_dark</item>
+        <item name="android:colorBackground">@color/background_holo_light</item>
+    </style>
+</resources>

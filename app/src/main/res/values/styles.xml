@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="ActionBar.Solid.Green_style">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="Theme.Green_style">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <!--<item name="android:alertDialogTheme">@style/DialogTheme</item>-->
+    </style>
+    <!--<style name="DialogTheme" parent="android:Theme.Material.Dialog.Alert">-->
+
+        <!--<item name="android:colorAccent">#81F781</item>-->
+    <!--</style>-->
+</resources>

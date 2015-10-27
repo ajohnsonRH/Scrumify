@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="home_page_text_title_color">#205436</color>
+    <color name="home_page_text_description_color">#205436</color>
+    <color name="button_background_color">#205436</color>
+    <color name="button_text_color">#81F781</color>
+    <color name="label_background_color">#17000201</color>
+    <color name="planning_text_color">#81d781</color>
+</resources>
